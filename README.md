@@ -8,6 +8,7 @@
 ## Objective
 The purpose of this project is to teach you how to scrape housing data from Craigslist.
 
+## Technologies
 - Jupyter Notebook
 - pandas
 - NumPy
