@@ -29,9 +29,6 @@ total_posts = int(find_total.find('span', class_='totalcount').text)
 # vary the value of the page parameters
 pages = np.arange(0, total_posts+1, 120)
 
-# vary the value of the page parameters
-pages = np.arange(0, total_posts+1, 120)
-
 # count tracker for number of iterations
 iterations = 0
 
